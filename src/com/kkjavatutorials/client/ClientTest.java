@@ -9,7 +9,9 @@ import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;
 
 import com.kkjavatutorials.singleton.Singleton;
-
+/**
+ * @author KK JavaTutorials
+ */
 public class ClientTest {
 
 	public static void main(String[] args) throws IOException {
