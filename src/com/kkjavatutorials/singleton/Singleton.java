@@ -1,9 +1,7 @@
 package com.kkjavatutorials.singleton;
 
 import java.io.Serializable;
-/**
- * @author KK JavaTutorials
- */
+
 public class Singleton implements Serializable{
 
 	private static final long serialVersionUID = 1808144385520819134L;
